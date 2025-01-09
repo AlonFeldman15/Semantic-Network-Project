@@ -71,12 +71,25 @@ The repository contains the following:
 - **Centrality Metrics:** Identify key nodes and their influence.
 - **Graph Density:** Measures the overall connectivity of the network.
 
-## Next Steps
-- Adding contextual data (e.g., user metadata) to enhance network richness.
+## Conclusion
+The results of this project demonstrate the power of semantic networks to analyze sentiment and hostility in social media content:
+
+- **Non-Hostile Tweets:** Words are more evenly distributed with high modularity, indicating clear topic segmentation.
+- **Moderately Hostile Tweets:** Dense connections around curses and negative emotions, with less distinct community structures.
+- **Highly Hostile Tweets:** Strong clusters of profanity and negative terms, with dominant nodes showing high Betweenness Centrality (e.g., offensive terms).
+  Additionally, these tweets contain fewer words compared to other classes, which could serve as an indicator for identifying them in the future.
+
+Centrality metrics like **Betweenness Centrality** and **Closeness Centrality** provided insights into key influencers in the networks.  
+Non-hostile networks exhibited balanced word usage, while highly hostile networks had dominant emotionally charged terms.
+
+**Overall,** this project underscores the importance of semantic network analysis in uncovering patterns of language and sentiment on social media.  
+We hope this research will contribute to efforts in reducing cyberbullying, especially among younger audiences.  
+Further exploration and refinement are essential to enhance these findings and foster a safer digital environment.
+
+## Next Possible Steps
 - Comparing results with external hostility datasets.
 - Expanding to multilingual analysis.
-- Expanding to age groups analysis.
-
+- Explore different age groups.
 
 ## Data Source
 **Kaggle:** [cyberbullying-bystander-dataset](https://www.kaggle.com/datasets/haifasaleh/cyberbullying-bystander-dataset-2023?select=202305_CYBERBYSTANDER+%28CYBY23%29+dataset.xlsx)
