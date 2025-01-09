@@ -1,7 +1,7 @@
 # Semantic Networks for Hostility Analysis in Tweets
 
 ## Overview
-This project explores the use of **semantic networks** to analyze hostility in tweets. 
+This project explores the use of **semantic networks** to analyze hostility in tweets.  
 By categorizing words and understanding their relationships, the project aims to uncover patterns in language that correlate with hostile behavior.  
 The insights can be applied to social media monitoring, sentiment analysis, and content moderation.
 
