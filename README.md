@@ -78,15 +78,15 @@ The repository contains the following:
 - Expanding to age groups analysis.
 
 
-## Data Source:
+## Data Source
 Kaggle: [cyberbullying-bystander-dataset](https://www.kaggle.com/datasets/haifasaleh/cyberbullying-bystander-dataset-2023?select=202305_CYBERBYSTANDER+%28CYBY23%29+dataset.xlsx)
 
-**For detailed presentation:**
-[Cyberbullying Presentation](https://github.com/AlonFeldman15/Semantic-Network-Project/blob/main/Networks%20FP.pdf)
+## Detailed Presentation
+[Cyberbullying Presentation](https://github.com/AlonFeldman15/Semantic-Network-Project/blob/main/Cyberbullying%20Presentation.pdf)
 
 ## Contact
 **Alon Feldman**  
-Email: alon.feldman5@gmail.com  
-LinkedIn: [Alon Feldman](https://www.linkedin.com/in/alon-feldman5)  
-Thanks to: []()  
-Technion - Spring 2024
+**Email:** alon.feldman5@gmail.com  
+**LinkedIn:** [Alon Feldman](https://www.linkedin.com/in/alon-feldman5)  
+**Thanks to:** [Tomer Hod](https://github.com/tomerhod1)  
+**Technion - Spring 2024**
