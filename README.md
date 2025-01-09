@@ -79,7 +79,7 @@ The repository contains the following:
 
 
 ## Data Source
-Kaggle: [cyberbullying-bystander-dataset](https://www.kaggle.com/datasets/haifasaleh/cyberbullying-bystander-dataset-2023?select=202305_CYBERBYSTANDER+%28CYBY23%29+dataset.xlsx)
+**Kaggle:** [cyberbullying-bystander-dataset](https://www.kaggle.com/datasets/haifasaleh/cyberbullying-bystander-dataset-2023?select=202305_CYBERBYSTANDER+%28CYBY23%29+dataset.xlsx)
 
 ## Detailed Presentation
 [Cyberbullying Presentation](https://github.com/AlonFeldman15/Semantic-Network-Project/blob/main/Cyberbullying%20Presentation.pdf)
